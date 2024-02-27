@@ -17,7 +17,7 @@ The Calendar project is a simple Java console application that allows users to v
 ### Installation
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/<your-github-username>/calendar-project.git
+    git clone https://github.com/xotlr/calendar-project.git
     ```
 2. Navigate to the project directory:
     ```bash
